@@ -1,12 +1,13 @@
-body,html {
+body,
+html {
     margin: 0px;
     padding: 0px;
     background-color: black;
 }
 
 * {
-  box-sizing: border-box;
- margin: 0px;
+    box-sizing: border-box;
+    margin: 0px;
     padding: 0px;
 }
 
@@ -191,157 +192,73 @@ border:solid 1px   aliceblue;
 
 /* ---------------- creteate for Phone  --------------------- */
 
-
-.containerMobail{
+.containerMobail {
     display: none;
     width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-
 @media screen and (max-width: 1000px) {
-   .container{
-    display: none;
-   }
-   .containerMobail{
-    display: block;
+    .container {
+        display: none;
+    }
+
+    .containerMobail {
+        display: block;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    /* cele Patru departamente */
+    .heder {
+        padding-top: 15px;
+        padding-bottom: 40px;
+    }
+
+    .video {
+        background-color: rgb(71, 90, 88);
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .sunet {
+        background-color: rgb(44, 114, 99);
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .Laptop {
+        background-color: rgb(118, 98, 206);
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .leader {
+        background-color: rgb(82, 74, 30);
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .pere {
+        font-size: 20px;
+    }
+
+    .colorvide {
+        color: rgb(184, 220, 117);
+    }
+
+    .animate__animated.animate__bounce {
+        --animate-duration: 3s;
+    }
+
+    :root {
+        --animate-duration: 800ms;
+        --animate-delay: 2s;
+    }
+
+    .mere {
+        color: rgb(184, 220, 117);
+    }
 }
-
-.center{
-    text-align: center;
-}
-
-/* cele Patru departamente */
-.heder{
-    padding-top: 15px;
-    padding-bottom: 40px;
-}
-.video{
- background-color: rgb(71, 90, 88);
- padding-top: 40px;
-  padding-bottom: 40px;
-}
-.sunet{
-   background-color: rgb(44, 114, 99);
-   padding-top: 40px;
-   padding-bottom: 40px;
-}
-.Laptop{
- 
- background-color: rgb(118, 98, 206);
- padding-top: 40px;
- padding-bottom:40px;
-}
-.leader{
-
-background-color: rgb(82, 74, 30);
-padding-top: 40px;
-padding-bottom: 40px;
-}
-.pere{
-    font-size: 20px;
-}
-
-.colorvide{
-
-    color: rgb(184, 220, 117);
-}
-
-.animate__animated.animate__bounce {
-  --animate-duration: 3s;
-
-}
-:root {
-  --animate-duration: 800ms;
-  --animate-delay: 2s;
-}
-.mere{
-    color: rgb(184, 220, 117);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
