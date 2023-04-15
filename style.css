@@ -261,4 +261,31 @@ border:solid 1px   aliceblue;
     .mere {
         color: rgb(184, 220, 117);
     }
+    .line{
+border:solid 1px beige;
+
+
+    }
+.imper{
+height: 100px;
+width: 100px;
+left: 10%;
+
 }
+.impe{
+height: 100px;
+width: 100px;
+left: 40%;
+
+}
+.imp{
+    padding-top: 15px;
+height: 80px;
+width: 80px;
+left: 70%;
+
+}
+
+
+}
+
