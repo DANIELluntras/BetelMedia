@@ -201,10 +201,13 @@ border:solid 1px   aliceblue;
 @media screen and (max-width: 1000px) {
     .container {
         display: none;
+        
     }
 
     .containerMobail {
         display: block;
+        margin: 30px;
+        border-radius: 8px;
     }
 
     .center {
