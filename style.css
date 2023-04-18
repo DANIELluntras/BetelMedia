@@ -206,8 +206,8 @@ border:solid 1px   aliceblue;
 
     .containerMobail {
         display: block;
-        margin: 30px;
-        border-radius: 8px;
+
+   
     }
 
     .center {
@@ -243,37 +243,29 @@ border:solid 1px   aliceblue;
         padding-top: 40px;
         padding-bottom: 40px;
     }
-
     .pere {
         font-size: 20px;
     }
-
     .colorvide {
         color: rgb(184, 220, 117);
     }
-
     .animate__animated.animate__bounce {
         --animate-duration: 3s;
     }
-
     :root {
         --animate-duration: 800ms;
         --animate-delay: 2s;
     }
-
     .mere {
         color: rgb(184, 220, 117);
     }
     .line{
 border:solid 1px beige;
-
-
     }
 .imper{
 height: 100px;
 width: 100px;
 left: 10%;
-
 }
 .impe{
 height: 100px;
@@ -288,7 +280,27 @@ width: 80px;
 left: 70%;
 
 }
+footer{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin-bottom:50px;
+}
+
+.footerpes{
+margin-bottom: 60px;
+}
 
 
+h3{
+position: absolute;
+display: flex;
+top:154%;
+justify-content: center;
+justify-items: center;
+left: 32%;
+
+
+
+}
 }
 
